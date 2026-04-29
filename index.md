@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+Focussed Learning  
+Focus on building a sustainable, long-term learning system by working on one active skill per track (Tech Writing, Graphic Design, AI) at a time, while keeping others in light or paused mode, and rotate only after reaching working confidence—not course completion. 
+
+---
+
+Prioritize output over course consumption by applying each lesson immediately through small, practical creations that can evolve into portfolio pieces, especially aligned with your niche in tech-focused and meaningful design. Integrate your tracks wherever possible (e.g., combining design with tech writing and AI), use AI as a lightweight workflow enhancer rather than a separate learning burden, and maintain consistency through manageable weekly effort—ensuring steady progress without burnout while balancing your full-time job and well-being.
 
 
 # Nikola Tesla
