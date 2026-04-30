@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+**Image Placement Practice**  
+![Brand Template](https://canva.link/rm4a76g9qo8a9rv "Brand Template") 
+
+
 **Linking Practice**  
 This is link to Google: www.google.com.
 You now need to visit Microsoft's site: [Link to Microsoft](https://www.microsoft.com/).  
