@@ -1,6 +1,22 @@
 ---
 layout: default
 ---
+
+Shopping List  
+- Apple
+  - Milk
+- Bread
+  - Eggs
+
+Shopping List  
+1. Apple
+2. Milk
+3. Bread
+   - Bread1
+   - Bread2
+4. Orange
+5. Potato
+
 **Focussed Learning**
 
 Focus on building a sustainable, *long-term learning system* by working on one active skill per track (Tech Writing, Graphic Design, AI) at a time, while keeping others in light or paused mode, and rotate only after reaching working confidence—not course completion. ~~I prefer skimming and shallow learning~~.
