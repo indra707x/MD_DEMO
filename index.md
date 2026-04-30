@@ -3,7 +3,7 @@ layout: default
 ---
 **Linking Practice**  
 This is link to Google: www.google.com.
-
+You now need to visit Microsoft's site: [Link to Microsoft](https://www.microsoft.com/).  
 
 Shopping List  
 - Apple
