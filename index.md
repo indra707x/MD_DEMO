@@ -4,7 +4,12 @@ layout: default
 **Linking Practice**  
 This is link to Google: www.google.com.
 You now need to visit Microsoft's site: [Link to Microsoft](https://www.microsoft.com/).  
+*Website References*  
+A. [Google website][1]  
+B. [Microsoft website][2]  
 
+[1]: https://www.google.com/  
+[2]: https://www.microsoft.com/en-us  
 Shopping List  
 - Apple
   - Milk
