@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+**Linking Practice**  
+This is link to Google: www.google.com.
+
 
 Shopping List  
 - Apple
