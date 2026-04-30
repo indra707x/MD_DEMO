@@ -2,7 +2,8 @@
 layout: default
 ---
 **Image Placement Practice**  
-![Brand Template](https://canva.link/rm4a76g9qo8a9rv "Brand Template") 
+![Brand Template](https://canva.link/rm4a76g9qo8a9rv "Brand Template")   
+![Logo](assets/img/logo.png "Logo Placeholder")
 
 
 **Linking Practice**  
