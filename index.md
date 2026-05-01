@@ -44,11 +44,11 @@ Food for Thought2
 
 *Table Practice*  
 ----------------------
-| Country          | Capital             | Primary Language        |
+| Country          | Capital             | Primary Language       |
 |:-----------------|:-------------------:|------------------------|
-|India             |New Delhi            |Hindi                   |
-|United States     |Washigton DC         |English (US)            |
-|Spain             |Madrid               |Spanish                 |
+| India            | New Delhi           | Hindi                  |
+| United States    | Washigton DC        | English (US)           |
+| Spain            | Madrid              | Spanish                |
 
 
 
