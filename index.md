@@ -42,6 +42,18 @@ Food for Thought2
 > Learning is an act of worship;  
 > Learning and developing a skill is a fragment of the supreme divine knowledge.
 
+*Table Practice*  
+----------------------
+| Country          | Capital             | Primary Language        |
+|:-----------------|:-------------------:|------------------------|
+|India             |New Delhi            |Hindi                   |
+|United States     |Washigton DC         |English (US)            |
+|Spain             |Madrid               |Spanish                 |
+
+
+
+
+
 # Heading1
 
 **Prioritize output over course consumption** by applying each lesson immediately through small, practical creations that can evolve into portfolio pieces, especially aligned with your niche in tech-focused and meaningful design. Integrate your tracks wherever possible (e.g., combining design with tech writing and AI), use AI as a lightweight workflow enhancer rather than a separate learning burden, and maintain consistency through manageable weekly effort—ensuring steady progress without burnout while balancing your full-time job and well-being.
